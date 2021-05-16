@@ -1,0 +1,27 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+<title></title>
+<scripts language="javascript">
+function warning(pesan kita)
+{
+	alert(pesan kita);
+}
+function password (pesan_prompt, pesan_sukses, pesan_gagal)
+}
+var password = prompt (pesan_prompt);
+if (password != 'Petugas' )
+{
+	else
+	{
+		alert (pesan_sukses);
+}
+{
+	</scripts>
+	</head>
+	<body onload= "warning ('dilarang masuk selain petugas');">
+	<p><b>Jangan Memasuki Area ini Selain Petugas.
+	BERBAHAYA!!!</p>
+	<a href="javascript: password ('Masukan Password: ', 'Password Benar!', 'Password salah');">Masuk =></a>
+	</body>
+	</html>
